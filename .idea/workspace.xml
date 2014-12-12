@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c2ee81-4443-4f80-a517-a818604e56b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_function6.php" afterPath="$PROJECT_DIR$/array_function/array_function6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_function/array_function8.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExcercises.iws" />
@@ -88,8 +88,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_function6.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_function6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array_function/array_function6.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_function7.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array_function/array_function7.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="525">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_function8.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_function/array_function8.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -118,6 +138,8 @@
         <option value="$PROJECT_DIR$/array_function/array_function4.php" />
         <option value="$PROJECT_DIR$/array_function/array_function5.php" />
         <option value="$PROJECT_DIR$/array_function/array_function6.php" />
+        <option value="$PROJECT_DIR$/array_function/array_function7.php" />
+        <option value="$PROJECT_DIR$/array_function/array_function8.php" />
       </list>
     </option>
   </component>
@@ -327,6 +349,22 @@
     <entry file="file://$PROJECT_DIR$/array_function/array_function6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_function/array_function7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="525">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_function/array_function8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
