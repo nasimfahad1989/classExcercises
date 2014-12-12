@@ -1,12 +1,8 @@
+
 <?php
-$array_walk_recursive = create_function('&$array, $callback',
-    'foreach($array as $element) {
-        if(is_array($element)) {
-            $funky = $GLOBALS["array_walk_recursive"];
-            $funky($element, $callback);
-        }
-        else {
-            $callback($element);
-        }
-    }');
+$fn = create_function('', 'echo __FUNCTION__;');
+$fn();
+// Result: __lambda_func
+echo $fn;
+// Result: ºlambda_2 (the actual first character cannot be displayed)
 ?>

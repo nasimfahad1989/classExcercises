@@ -1,7 +1,8 @@
+
 <?php
-/**
- * Created by PhpStorm.
- * User: lict
- * Date: 12/12/14
- * Time: 10:26 AM
- */ 
+$fn = create_function('', 'echo __FUNCTION__;');
+$fn();
+// Result: __lambda_func
+echo $fn;
+// Result: ºlambda_2 (the actual first character cannot be displayed)
+?>
