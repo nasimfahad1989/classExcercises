@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c2ee81-4443-4f80-a517-a818604e56b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_function/array_function23.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_function/array_function24.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExcercises.iws" />
@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="array_function14.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array_function/array_function14.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="array_function15.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array_function/array_function15.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,8 +108,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_function23.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_function23.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array_function/array_function23.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_function24.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_function/array_function24.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -165,6 +165,7 @@
         <option value="$PROJECT_DIR$/array_function/array_function21.php" />
         <option value="$PROJECT_DIR$/array_function/array_function22.php" />
         <option value="$PROJECT_DIR$/array_function/array_function23.php" />
+        <option value="$PROJECT_DIR$/array_function/array_function24.php" />
       </list>
     </option>
   </component>
@@ -508,6 +509,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array_function/array_function23.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_function/array_function24.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
