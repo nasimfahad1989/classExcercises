@@ -1,7 +1,6 @@
+
 <?php
-/**
- * Created by PhpStorm.
- * User: lict
- * Date: 12/12/14
- * Time: 10:55 AM
- */ 
+$keys = array('foo', 5, 10, 'bar');
+$a = array_fill_keys($keys, 'banana');
+print_r($a);
+?>
